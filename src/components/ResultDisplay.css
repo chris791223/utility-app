@@ -1,0 +1,41 @@
+.result-container {
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 400px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.result-container h3 {
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+  color: #333;
+  text-align: center;
+}
+
+.result-box {
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.result-label {
+  font-weight: bold;
+  color: #555;
+}
+
+.result-value {
+  font-size: 1.2rem;
+  color: #4CAF50;
+  margin-left: 10px;
+}
+
+.result-unit {
+  font-size: 1.2rem;
+  color: #007bff;
+  margin-left: 10px;
+}
